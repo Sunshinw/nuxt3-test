@@ -28,15 +28,15 @@ const items = ref([
         icon: "majesticons:money-line"
     }, {
         title: "Account",
-        path: "/account",
+        path: "/",
         icon: "mdi:account"
     }, {
         title: "Contacts",
-        path: "/contacts",
+        path: "/",
         icon: "material-symbols:contacts"
     }, {
         title: "Settings",
-        path: "/settings",
+        path: "/",
         icon: "material-symbols:settings"
     },
     

@@ -9,10 +9,10 @@
         </div>
         </div>
         
-        <div class="hidden lg:flex w-[250px] h-screen flex-col justify-between border-r ">
+        <div class="hidden lg:flex w-[250px] h-full flex-col justify-between border-r ">
             <SidebarMenu/>
             <div>
-                Useritem
+                <Useritem />
             </div>
         </div>
     </div>
